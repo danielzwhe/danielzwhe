@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 I am a developer from China.
 
-[An](https://github-readme-stats.vercel.app/api?username=danielzwhe&count_private=true)
+[![danielzwhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielzwhe)](https://github.com/anuraghazra/github-readme-stats)
+
