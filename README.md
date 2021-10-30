@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a developer from China.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielzwhe&count_private=true&show_icons=true&theme=vue-dark&bg_color=45,FF0000,0000FF)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielzwhe&count_private=true&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielzwhe&theme=vue-dark&layout=compact&bg_color=30,FF0000,0000FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielzwhe&layout=compact&theme=default)
 
